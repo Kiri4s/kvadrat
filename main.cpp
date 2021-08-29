@@ -143,9 +143,9 @@ int main() {
            x1 = 0.0,
            x2 = 0.0;
     
-//    input_coefficients(&a, &b, &c);
+    input_coefficients(&a, &b, &c);
     
-    Square_Equalution_Test();
+//    Square_Equalution_Test();
     
     count_roots_t count_roots = Square_Equalution_Solver(a, b, c, &x1, &x2);
     
