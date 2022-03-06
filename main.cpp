@@ -4,6 +4,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// 06.03.2022
+
 enum count_roots_t {
     INF_ROOTS = -1,
     NO_ROOTS = 0,
